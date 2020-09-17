@@ -4,7 +4,7 @@ This project generates a simple dll file for windows that can be included in the
 
 ## Requirements
 
-To build this project [Msys2](https://www.msys2.org) with the package "mingw32/mingw-w64-i686-gcc" is required and the following folder is required to be part of the global path variable
+To build this project [Msys2](https://www.msys2.org) with the package "mingw64/mingw-w64-x86_64-gcc" is required and the following folder is required to be part of the global path variable
 ```
 <msys2 root dir>\mingw64\bin
 ```
